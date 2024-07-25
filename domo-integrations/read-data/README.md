@@ -1,3 +1,5 @@
+```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
+
 # Read Data into Jupyter
 
 Example of how to read data from a Domo DataSet and use it in a Jupyter Notebook

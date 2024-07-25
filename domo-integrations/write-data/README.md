@@ -1,3 +1,5 @@
+```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
+
 # Write data from Jupyter to Domo
 
 Example of how to write data from a Jupyter notebook to a Domo DataSet

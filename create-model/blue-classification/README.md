@@ -1,3 +1,5 @@
+```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
+
 # Blue Classification
 
 Blue Classification is a simple classification model that serves as an introduction for creating models in Domo's Jupyter Workspace environment.

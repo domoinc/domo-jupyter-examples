@@ -1,3 +1,5 @@
+```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
+
 # ARIMA Forecasting example
 
 This is an example of creating a forecasting model in Jupyter

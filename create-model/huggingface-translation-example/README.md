@@ -1,3 +1,5 @@
+```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
+
 ## Hugging Face translation model example
 
 This example demonstrates how to create a model using the Hugging Face library and upload it to Domo's Model Management interface.
