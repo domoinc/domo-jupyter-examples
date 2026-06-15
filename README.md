@@ -1,6 +1,8 @@
 ```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
 
 # Domo Jupyter Example Resource
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-jupyter-examples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-jupyter-examples?ref=badge_shield)
+
 ### This is a guide of useful examples of using Domo functions inside of Jupyter.
 > jupyter@domo.com
 
@@ -27,3 +29,6 @@
 * [AppDB](domo-integrations/appDB/README.md)
 * [Read Data](domo-integrations/read-data/README.md)
 * [Write Data](domo-integrations/write-data/README.md)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-jupyter-examples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdomoinc%2Fdomo-jupyter-examples?ref=badge_large)
