@@ -1,29 +1,33 @@
-```The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.```
+`The files in these examples are read only. To execute the files you will need to copy + paste the code, or download the files and upload them into your workspace.`
 
 # Domo Jupyter Example Resource
+
 ### This is a guide of useful examples of using Domo functions inside of Jupyter.
+
 > jupyter@domo.com
 
 ## AI Services
+
 ## Domo AI Pro Operations & Processing
+
 > Domo AI Pro operations and processing will consume credits as described on [Domo’s online consumption terms](https://www.domo.com/consumption-terms). Please see the credit rate card in your Domo instance for more information. (Admin > Company Settings > Credit Utilization > Rate Card)
 
-* [Text Generation](ai-services/text-generation/README.md)
-* [Text-Summarization](ai-services/text-summarization/README.md)
-* [Text-to-SQL](ai-services/text-to-sql/README.md)
-
+- [AI Services](ai-services/README.md)
 
 ## Creating Models
-* [ARIMA Forecasting](create-model/arima-forecast-example/README.md)
-* [Blue Classification](create-model/blue-classification/README.md)
-* [Generic Forecasting](create-model/generic-forecasting-example/README.md)
-* [Hugging Face Translation](create-model/huggingface-translation-example/README.md)
+
+- [ARIMA Forecasting](create-model/arima-forecast-example/README.md)
+- [Blue Classification](create-model/blue-classification/README.md)
+- [Generic Forecasting](create-model/generic-forecasting-example/README.md)
+- [Hugging Face Translation](create-model/huggingface-translation-example/README.md)
 
 ## Data Exploration
-* [Correlation Matrix](data-exploration/correlation-matrix-example/README.md)
+
+- [Correlation Matrix](data-exploration/correlation-matrix-example/README.md)
 
 ## Domo Integrations
-* [Accounts](domo-integrations/accounts/README.md)
-* [AppDB](domo-integrations/appDB/README.md)
-* [Read Data](domo-integrations/read-data/README.md)
-* [Write Data](domo-integrations/write-data/README.md)
+
+- [Accounts](domo-integrations/accounts/README.md)
+- [AppDB](domo-integrations/appDB/README.md)
+- [Read Data](domo-integrations/read-data/README.md)
+- [Write Data](domo-integrations/write-data/README.md)
